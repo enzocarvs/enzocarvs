@@ -26,6 +26,6 @@ markdown### 🧰 Tech Stack
 
 ### 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://github.com/enzocarvs/enzocarvs/blob/main/OCI25FNDCFAV1.png?raw=true" width="150"/>
+</div>
