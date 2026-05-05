@@ -7,9 +7,6 @@
 ---
 ### 🧰 Tech Stack
 
-Achei o padrão correto. O segredo é usar o domínio github.com/devicons/devicon/blob/master/ com &nbsp; entre cada ícone e tudo dentro de um <div>. Aqui está:
-markdown### 🧰 Tech Stack
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>&nbsp;
